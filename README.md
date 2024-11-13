@@ -10,8 +10,7 @@ A simple graphing calculator built in pure C++ with [raylib](https://www.raylib.
 
 <!-- Include screenshots if available -->
 ![Graphing Calculator Demo](assets/demo.gif)
-![Graphing Calculator Screenshot 1](assets/demo1.png)
-![Graphing Calculator Screenshot 2](assets/demo2.png)
+<img src="assets/demo1.png" width="425"/> <img src="assets/demo2.png" width="425"/>
 
 ## Prerequisites
 
