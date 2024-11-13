@@ -1,5 +1,10 @@
+*.o
 *.exe
+*.txt
 PlanePrime.cpp
 mainPrime.cpp
 notes.txt
 READMEPRIME.md
+raylibhelloworld.exe
+test.cpp
+test2.cpp
